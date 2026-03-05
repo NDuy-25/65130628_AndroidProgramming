@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TinhTong</string>
+    <string name="label_a">A:</string>
+    <string name="label_b">B:</string>
+    <string name="hint_a">Nhập số A</string>
+    <string name="hint_b">Nhập số B</string>
+    <string name="btn_calculate">Tính Tổng</string>
+    <string name="label_result">Kết Quả:</string>
+    <string name="hint_result">Kết quả</string>
+</resources>
