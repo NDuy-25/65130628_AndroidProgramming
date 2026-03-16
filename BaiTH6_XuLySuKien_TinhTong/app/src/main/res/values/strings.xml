@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">XuLyOnclick</string>
+    <string name="label_a">Số a:</string>
+    <string name="label_b">Số b:</string>
+    <string name="btn_calculate">Tính Tổng</string>
+    <string name="label_result">Kết Quả:</string>
+    <string name="hint_input">Nhập số</string>
+</resources>
