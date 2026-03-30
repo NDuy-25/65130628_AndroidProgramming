@@ -1,3 +1,3 @@
 # 65130628_AndroidProgramming
 
- BaiTH9_Recyclerview
+https://github.com/NDuy-25/65130628_AndroidProgramming/tree/main/%20BaiTH9_Recyclerview
