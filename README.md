@@ -2,7 +2,9 @@
 BÀI THỤC HÀNH 11
 
   <img src="Images/BT11.png" alt="Ảnh minh họa" width="500">
+  
 ------------------------------------------------------------------------------------
+
 BÀI THỤC HÀNH 12
 
   <img src="Images/BT12.png" alt="Ảnh minh họa" width="400">
