@@ -36,5 +36,5 @@ BÀI TẬP LÀM THÊM
      <img src="Images/Ảnh màn hình 2026-04-06 lúc 00.25.31.png" alt="Ảnh minh họa" width="400">
   - Ảnh khi click vào Menu
     
-     <img src="Ảnh màn hình 2026-04-06 lúc 00.25.38.png" alt="Ảnh minh họa" width="400">
+     <img src="Images/Ảnh màn hình 2026-04-06 lúc 00.25.38.png" alt="Ảnh minh họa" width="400">
  
