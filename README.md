@@ -38,3 +38,21 @@ BÀI TẬP LÀM THÊM
     
      <img src="Images/Ảnh màn hình 2026-04-06 lúc 00.25.38.png" alt="Ảnh minh họa" width="400">
  
+------------------------------------------------------------------------------------
+BÀI THI GIỮA KÌ
+ - Ảnh giao diện trang chủ:
+
+   <img src="Images/giaodien.png" alt="Ảnh minh họa" width="400">
+ - Ảnh Chức năng 1:
+
+   <img src="Images/chucnang1.png" alt="Ảnh minh họa" width="400">
+ - Ảnh Chức năng 2:
+
+   <img src="Images/chucnang2.png" alt="Ảnh minh họa" width="400">
+ - Ảnh Chức năng 3:
+
+   <img src="Images/chucnang3.png" alt="Ảnh minh họa" width="400">
+ - Ảnh Chức năng 4:
+
+   <img src="Images/chucnang4.png" alt="Ảnh minh họa" width="400">
+  
