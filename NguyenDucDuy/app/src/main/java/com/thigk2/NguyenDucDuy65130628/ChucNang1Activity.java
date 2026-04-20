@@ -17,6 +17,7 @@ public class ChucNang1Activity extends AppCompatActivity {
         EditText edtTiGia = findViewById(R.id.edtTiGia);
         Button btnDoiTien = findViewById(R.id.btnDoiTien);
         TextView tvKetQua = findViewById(R.id.tvKetQua);
+        Button btnQuayLai = findViewById(R.id.btnQuayLai);
 
         btnDoiTien.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -30,6 +31,13 @@ public class ChucNang1Activity extends AppCompatActivity {
                     double ketQua = soTien / tiGia;
                     tvKetQua.setText("Kết quả: " + String.format("%.2f", ketQua) + " USD");
                 }
+            }
+        });
+
+        btnQuayLai.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                finish(); // Kết thúc Activity này để quay lại màn hình trước đó
             }
         });
     }
