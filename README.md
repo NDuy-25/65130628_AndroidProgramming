@@ -39,7 +39,7 @@ BÀI TẬP LÀM THÊM
      <img src="Images/Ảnh màn hình 2026-04-06 lúc 00.25.38.png" alt="Ảnh minh họa" width="400">
  
 ------------------------------------------------------------------------------------
-### BÀI THI GIỮA KÌ (https://github.com/NDuy-25/65130628_AndroidProgramming/tree/main/NguyenDucDuy)
+### BÀI THI GIỮA KÌ 
 [Chi tiết bài tập(https://github.com/NDuy-25/65130628_AndroidProgramming/tree/main/NguyenDucDuy)]
  - Ảnh giao diện trang chủ:
 
