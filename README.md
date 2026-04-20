@@ -1,16 +1,16 @@
 # 65130628_AndroidProgramming
-BÀI THỤC HÀNH 11
+### BÀI THỤC HÀNH 11
 
   <img src="Images/BT11.png" alt="Ảnh minh họa" width="500">
   
 ------------------------------------------------------------------------------------
 
-BÀI THỤC HÀNH 12
+### BÀI THỤC HÀNH 12
 
   <img src="Images/BT12.png" alt="Ảnh minh họa" width="400">
 ------------------------------------------------------------------------------------
 
-BÀI THỤC HÀNH 13
+### BÀI THỤC HÀNH 13
   - Ảnh khi bấm nút ONE
     
     <img src="Images/BT13.1.png" alt="Ảnh minh họa" width="400">
@@ -39,7 +39,8 @@ BÀI TẬP LÀM THÊM
      <img src="Images/Ảnh màn hình 2026-04-06 lúc 00.25.38.png" alt="Ảnh minh họa" width="400">
  
 ------------------------------------------------------------------------------------
-BÀI THI GIỮA KÌ
+### BÀI THI GIỮA KÌ
+[Chi tiết bài tập(https://github.com/NDuy-25/65130628_AndroidProgramming/tree/main/NguyenDucDuy)]
  - Ảnh giao diện trang chủ:
 
    <img src="Images/giaodien.png" alt="Ảnh minh họa" width="400">
