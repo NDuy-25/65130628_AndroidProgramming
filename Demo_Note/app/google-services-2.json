@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391464757215",
+    "project_id": "appnote-e7556",
+    "storage_bucket": "appnote-e7556.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391464757215:android:f72eacdf689eecc3f8066a",
+        "android_client_info": {
+          "package_name": "com.duy.demo_note"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB06tXzWHHuBFBoMm9kAdrO48Jp2w61zxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
